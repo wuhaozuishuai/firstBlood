@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.clears{
+    clear: both;
+    height: 0;
+    line-height: 0;
+    overflow: hidden;/*超出隐藏*/
+    font-size: 0;
+}
+ul,li,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none; /* 去掉超链接下划线*/
+}
+img{
+    border: 0;
+}
+i {
+    font-style: italic;
+
+
+
+
+    border-radius: 10px;
+;
+}
